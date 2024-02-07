@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-07T12:28:43.167Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 YaBrowser/24.1.0.0 Safari/537.36" etag="8GoCf4OxDRKanN-my-u3" version="23.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-07T12:32:33.771Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 YaBrowser/24.1.0.0 Safari/537.36" etag="wSUEwHT5ws9NCiVWHMF-" version="23.1.1" type="github">
   <diagram name="Страница — 1" id="0iTnj-BsS2j_chY-5PiK">
-    <mxGraphModel dx="1143" dy="768" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
+    <mxGraphModel dx="788" dy="530" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -46,10 +46,10 @@
           <mxGeometry y="36" width="214" height="418" as="geometry" />
         </mxCell>
         <mxCell id="aRAYRiQgfo4Hvzv392GO-18" value="Введите имя ребенка.&lt;br&gt;&lt;i&gt;Пример: Ванечка&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D4E1F5;strokeColor=none;fontSize=10;align=left;" vertex="1" parent="aRAYRiQgfo4Hvzv392GO-33">
-          <mxGeometry x="6" y="98" width="120" height="35" as="geometry" />
+          <mxGeometry x="6" y="53" width="120" height="35" as="geometry" />
         </mxCell>
         <mxCell id="aRAYRiQgfo4Hvzv392GO-19" value="&lt;i style=&quot;border-color: var(--border-color); font-size: 10px;&quot;&gt;Ванечка&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=none;fontSize=11;align=left;" vertex="1" parent="aRAYRiQgfo4Hvzv392GO-33">
-          <mxGeometry x="155" y="140" width="52" height="18" as="geometry" />
+          <mxGeometry x="155" y="95" width="52" height="18" as="geometry" />
         </mxCell>
         <mxCell id="aRAYRiQgfo4Hvzv392GO-20" value="Поле ввода..." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=10;align=left;fontColor=#333333;" vertex="1" parent="aRAYRiQgfo4Hvzv392GO-33">
           <mxGeometry x="7" y="401" width="200" height="16" as="geometry" />
@@ -58,25 +58,31 @@
           <mxGeometry x="42" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aRAYRiQgfo4Hvzv392GO-24" value="Введите дату рождения ребенка.&lt;br&gt;&lt;i&gt;Пример: 20.05.2005&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D4E1F5;strokeColor=none;fontSize=10;align=left;" vertex="1" parent="aRAYRiQgfo4Hvzv392GO-33">
-          <mxGeometry x="6" y="165" width="120" height="42" as="geometry" />
+          <mxGeometry x="6" y="120" width="120" height="42" as="geometry" />
         </mxCell>
         <mxCell id="aRAYRiQgfo4Hvzv392GO-25" value="&lt;i style=&quot;border-color: var(--border-color); font-size: 10px;&quot;&gt;20.05.2005&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=none;fontSize=11;align=left;" vertex="1" parent="aRAYRiQgfo4Hvzv392GO-33">
-          <mxGeometry x="146" y="207" width="61" height="18" as="geometry" />
+          <mxGeometry x="146" y="162" width="61" height="18" as="geometry" />
         </mxCell>
         <mxCell id="aRAYRiQgfo4Hvzv392GO-27" value="Введите рост ребенка в сантиметрах.&lt;br&gt;&lt;i&gt;Пример: 50&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D4E1F5;strokeColor=none;fontSize=10;align=left;" vertex="1" parent="aRAYRiQgfo4Hvzv392GO-33">
-          <mxGeometry x="6" y="239" width="120" height="42" as="geometry" />
+          <mxGeometry x="6" y="260" width="120" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="aRAYRiQgfo4Hvzv392GO-28" value="&lt;i style=&quot;border-color: var(--border-color); font-size: 10px;&quot;&gt;50&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=none;fontSize=11;align=left;" vertex="1" parent="aRAYRiQgfo4Hvzv392GO-33">
-          <mxGeometry x="146" y="281" width="61" height="18" as="geometry" />
+        <mxCell id="aRAYRiQgfo4Hvzv392GO-28" value="&lt;i style=&quot;border-color: var(--border-color); font-size: 10px;&quot;&gt;12:12&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=none;fontSize=11;align=left;" vertex="1" parent="aRAYRiQgfo4Hvzv392GO-33">
+          <mxGeometry x="146" y="236" width="61" height="18" as="geometry" />
         </mxCell>
         <mxCell id="aRAYRiQgfo4Hvzv392GO-29" value="&lt;i style=&quot;border-color: var(--border-color); font-size: 10px;&quot;&gt;50&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=none;fontSize=11;align=left;" vertex="1" parent="aRAYRiQgfo4Hvzv392GO-33">
-          <mxGeometry x="146" y="347" width="61" height="18" as="geometry" />
+          <mxGeometry x="146" y="302" width="61" height="18" as="geometry" />
         </mxCell>
-        <mxCell id="aRAYRiQgfo4Hvzv392GO-30" value="Введите рост ребенка в сантиметрах.&lt;br&gt;&lt;i&gt;Пример: 50&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D4E1F5;strokeColor=none;fontSize=10;align=left;" vertex="1" parent="aRAYRiQgfo4Hvzv392GO-33">
-          <mxGeometry x="6" y="305" width="120" height="42" as="geometry" />
+        <mxCell id="aRAYRiQgfo4Hvzv392GO-30" value="Введите время рождения ребенка.&lt;br&gt;&lt;i&gt;Пример: 12:12&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D4E1F5;strokeColor=none;fontSize=10;align=left;" vertex="1" parent="aRAYRiQgfo4Hvzv392GO-33">
+          <mxGeometry x="6" y="189" width="120" height="42" as="geometry" />
         </mxCell>
         <mxCell id="aRAYRiQgfo4Hvzv392GO-48" value="Отмена" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=none;fontSize=10;align=center;fontColor=#333333;" vertex="1" parent="aRAYRiQgfo4Hvzv392GO-33">
           <mxGeometry x="7" y="421" width="200" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="aRAYRiQgfo4Hvzv392GO-54" value="Введите вес ребенка в килограммах.&lt;br&gt;&lt;i&gt;Пример: 3&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D4E1F5;strokeColor=none;fontSize=10;align=left;" vertex="1" parent="aRAYRiQgfo4Hvzv392GO-33">
+          <mxGeometry x="7" y="329" width="120" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="aRAYRiQgfo4Hvzv392GO-55" value="&lt;i style=&quot;border-color: var(--border-color); font-size: 10px;&quot;&gt;3&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=none;fontSize=11;align=left;" vertex="1" parent="aRAYRiQgfo4Hvzv392GO-33">
+          <mxGeometry x="147" y="371" width="61" height="18" as="geometry" />
         </mxCell>
         <mxCell id="aRAYRiQgfo4Hvzv392GO-47" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="704" y="18" width="214" height="454" as="geometry" />
@@ -95,6 +101,12 @@
         </mxCell>
         <mxCell id="aRAYRiQgfo4Hvzv392GO-50" value="Отмена" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=none;fontSize=10;align=center;fontColor=#333333;" vertex="1" parent="aRAYRiQgfo4Hvzv392GO-47">
           <mxGeometry x="7" y="421" width="200" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="aRAYRiQgfo4Hvzv392GO-52" value="3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="aRAYRiQgfo4Hvzv392GO-47">
+          <mxGeometry x="26" y="222" width="27.12" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aRAYRiQgfo4Hvzv392GO-53" value="&lt;i style=&quot;border-color: var(--border-color); text-align: left; font-size: 7px;&quot;&gt;20.05.2005&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" vertex="1" parent="aRAYRiQgfo4Hvzv392GO-47">
+          <mxGeometry x="8" y="163" width="61" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
